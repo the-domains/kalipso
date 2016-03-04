@@ -1,0 +1,28 @@
+name: kalipso
+favicon: null
+layout_spectrum: 0.08285633753985167
+typography_spectrum: 0.20954570965841413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8322581038810313
+  lightness: 0.6689775751437992
+  saturation: 0.42739005922339857
+  rhythmicContrast: 0.7638194083701819
+purpose: []
